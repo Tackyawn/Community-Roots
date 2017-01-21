@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186624850541",
+    "project_id": "community-roots"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186624850541:android:1af9e6baf3f93066",
+        "android_client_info": {
+          "package_name": "com.axv77.communityroots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186624850541-31b2ad3huegtv2clonpvhnpfntpa3js1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axv77.communityroots",
+            "certificate_hash": "2FD4DB8B697A14BFDF38F55D595CB9CE2F3B3EF1"
+          }
+        },
+        {
+          "client_id": "186624850541-t5cnv4st0dsmob3orj1g6jrchr4u6nm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdS6KRM6jI1_iF7w609xOmNj2Bud2C2sM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
